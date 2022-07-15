@@ -12,12 +12,11 @@ Nowadays I passionate about blockchain technologies so that I'm mainly focusing 
 - 💬 Ask me about web and blockchain developmentCancel changes
 - 📫 How to reach me:
   1) Email: icarus96119@gmail.com
-  2) Website: https://danny-jin.netlify.app
+  2) Website: https://sacred-danny.netlify.app
   3) Telegram: @sacred_danny
-  4) Website: https://danny-jin.netlify.app
-  5) Discord: https://discord.gg/vFgsnNHz
-  6) Skype: live:.cid.adc01affc4f03e2a
-  7) Linkedin: https://www.linkedin.com/in/danny-jin-378ab41a8
+  4) Discord: https://discord.gg/vFgsnNHz
+  5) Skype: live:.cid.adc01affc4f03e2a
+  6) Linkedin: https://www.linkedin.com/in/sacred-danny
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: ...
 
