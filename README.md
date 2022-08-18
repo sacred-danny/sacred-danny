@@ -11,7 +11,7 @@ Nowadays I passionate about blockchain technologies so that I'm mainly focusing 
 - 🤔 I’m looking to help with building Defi and web apps
 - 💬 Ask me about web and blockchain developmentCancel changes
 - 📫 How to reach me:
-  1) Email: icarus96119@gmail.com
+  1) Email: sacred.danny.jin@gmail.com
   2) Website: https://sacred-danny.netlify.app
   3) Telegram: @sacred_danny
   4) Discord: https://discord.gg/vFgsnNHz
