@@ -13,7 +13,7 @@ Nowadays I passionate about blockchain technologies so that I'm mainly focusing 
 - 📫 How to reach me:
   1) Email: sacred.danny.jin@gmail.com
   2) Website: https://sacred-danny.netlify.app
-  3) Telegram: @sacred_danny
+  3) Telegram: @sacred_danny_jin
   4) Discord: https://discord.gg/vFgsnNHz
   5) Skype: live:.cid.adc01affc4f03e2a
   6) Linkedin: https://www.linkedin.com/in/sacred-danny
